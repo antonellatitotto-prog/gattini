@@ -1,0 +1,36 @@
+{
+    "name":  "Un gatto per stanza",
+    "short_name":  "Gattini",
+    "description":  "Un rompicapo con i gattini: uno per riga, uno per colonna, uno per stanza colorata, senza che si tocchino.",
+    "lang":  "it",
+    "start_url":  "./",
+    "scope":  "./",
+    "display":  "standalone",
+    "orientation":  "portrait",
+    "background_color":  "#fff3e6",
+    "theme_color":  "#ff5c8a",
+    "categories":  [
+                       "games",
+                       "puzzle"
+                   ],
+    "icons":  [
+                  {
+                      "src":  "icona-192.png",
+                      "sizes":  "192x192",
+                      "type":  "image/png",
+                      "purpose":  "any"
+                  },
+                  {
+                      "src":  "icona-512.png",
+                      "sizes":  "512x512",
+                      "type":  "image/png",
+                      "purpose":  "any"
+                  },
+                  {
+                      "src":  "icona-maskable-512.png",
+                      "sizes":  "512x512",
+                      "type":  "image/png",
+                      "purpose":  "maskable"
+                  }
+              ]
+}
